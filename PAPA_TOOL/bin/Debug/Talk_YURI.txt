@@ -1,0 +1,3470 @@
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Good morning... What do you want?
+MES_MORNING_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+What? Oh, a morning greeting?
+MES_MORNING_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Good morning...
+MES_MORNING_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Hello... Want something?
+MES_AFTERNOON_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Hello... Mom says hello...
+MES_AFTERNOON_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Thanks...
+MES_AFTERNOON_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Hello... Mom says I should greet people
+properly...
+MES_EVENING_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Evening...
+MES_EVENING_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Evening... I'm sleepy...
+MES_EVENING_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Good morning, <MYNAME>... How've you been?
+MES_LOVER_MORNING_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Good morning, <MYNAME>... I got to see
+you again today...
+MES_LOVER_MORNING_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Good morning... I was hoping to see
+you...
+MES_LOVER_MORNING_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+<MYNAME>... How's work?
+MES_LOVER_AFTERNOON_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Hello, <MYNAME>...I'm glad I got to see
+you...
+MES_LOVER_AFTERNOON_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+<MYNAME>... Are you going somewhere today?
+MES_LOVER_AFTERNOON_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Good evening... <MYNAME>, is something
+wrong?
+MES_LOVER_EVENING_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+I'm sorry, <MYNAME>... I'm a little
+sleepy...
+MES_LOVER_EVENING_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+<MYNAME>, good evening... Thank you for
+coming to see me...
+MES_LOVER_EVENING_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+Good morning... <MYNAME>...
+MES_MARRIAGE_MORNING_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Good morning, <MYNAME>... Mornings on
+the farm... They feel so good...
+MES_MARRIAGE_MORNING_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Good morning, <MYNAME>... Please hurry
+home after you finish work...
+MES_MARRIAGE_MORNING_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+<MYNAME>... What's the matter? Did you
+want to see me?
+MES_MARRIAGE_AFTERNOON_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+<MYNAME>... You have to hurry and...
+get your work done... Give it your
+best...
+MES_MARRIAGE_AFTERNOON_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+<MYNAME>, work hard again today... I'm
+rooting for you...
+MES_MARRIAGE_AFTERNOON_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+<MYNAME>... Why did it take you so long
+to come talk to me...
+MES_MARRIAGE_EVENING_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+<MYNAME>... Rough day today? You should
+go to bed soon...
+MES_MARRIAGE_EVENING_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+<MYNAME>... Thank you for your hard
+work...  Please keep up the good work...
+MES_MARRIAGE_EVENING_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Hmm... it's warm today... Maybe I should
+air out the bedding...
+MES_WEATHER_SUNNY_SPRING
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Rain... You'll catch a cold if you get
+wet... You'd better take care...
+MES_WEATHER_RAIN_SPRING
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+The summer sun is nice... Basking in the
+sun can be so energizing...
+MES_WEATHER_SUNNY_SUMMER
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Terrible rain... I hope this house
+doesn't have any leaks...
+MES_WEATHER_RAIN_SUMMER
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+What a blue autumn sky... It feels so
+good... I'm going to work hard today...
+MES_WEATHER_SUNNY_AUTUMN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Today's rain is depressing... I don't
+feel like doing anything...
+MES_WEATHER_RAIN_AUTUMN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+It's cold... Winters are hard for me...
+Why does it get so cold in winter?
+MES_WEATHER_SUNNY_WINTER
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+Snow... Does it have to snow so much?
+I'm cold...
+MES_WEATHER_SNOW
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOSS>
+It's so windy... I hope the shop doesn't
+get blown away... I'm quite worried...
+MES_WEATHER_TYPHOON
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOSS>
+There's so much snow... I hope the shop
+doesn't cave in... I'm quite worried...
+MES_WEATHER_HEAVYSNOW
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+You mustn't go out today... I'm worried
+about your health, <MYNAME>... Please...
+Stay at home...
+MES_MARRIAGE_WEATHER_TYPHOON
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+It's snowing so hard today... You must
+not go out... Please stay at home...
+MES_MARRIAGE_WEATHER_HEAVYSNOW
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Oh... <MYNAME>... I heard you are
+dating someone... Mother told me... 
+Congratulations...
+MES_BLESSING_LOVER
+
+Msg
+NoMsg
+MES_BLESSING_PROPOSAL_00
+
+Msg
+NoMsg
+MES_BLESSING_PROPOSAL_01
+
+Msg
+NoMsg
+MES_BLESSING_MARRAIGE
+
+Msg
+NoMsg
+MES_BLESSING_CHILD_BIRTH
+
+Msg
+NoMsg
+MES_BLESSING_VICTORY
+
+Msg
+NoMsg
+MES_AFTER_TRAVEL
+
+Msg
+NoMsg
+MES_AFTER_DEMAND_HALLOWEEN
+
+Msg
+NoMsg
+MES_NEW_RESIDENT
+
+Msg
+NoMsg
+MES_HORSE
+
+Msg
+NoMsg
+MES_SEGWAY
+
+Msg
+NoMsg
+MES_SHISHIMAI
+
+Msg
+NoMsg
+MES_PANDA
+
+Msg
+NoMsg
+MES_TAKEKOPUTA
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+This forest has many animals... It's a
+lot of fun...
+MES_AREA_FOREST_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Mom said she likes this forest... I
+understand how she feels now...
+MES_AREA_FOREST_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+If you catch an animal... show it to
+me... I can't wait...
+MES_AREA_RIVER_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+The water from this river... It's
+delicious... Perfect for when you're
+taking a stroll...
+MES_AREA_RIVER_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+The blue sky that you see from this
+mountain is like no other...
+MES_AREA_MOUNTAIN_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Oh... New designs are welling up in
+me... The mountain is giving me ideas
+too... I'll ponder this later...
+MES_AREA_MOUNTAIN_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Mom was so enthusiastic about this
+farm... She raves about how great it
+is...
+MES_AREA_FARM_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Why name a farm <MYFARM> Farm?
+I'm a little curious...
+MES_AREA_FARM_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+It's dark... But it's quiet and
+peaceful...
+MES_AREA_MINE_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I can use jewels on my clothes... But I
+don't think I can use ore...
+MES_AREA_MINE_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I wish there were more people in town...
+Then perhaps more people would wear my
+designs...
+MES_AREA_TOWN_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I've had more customers lately... That
+means there are more people in town,
+right? Amazing...
+MES_AREA_TOWN_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+I'm glad the town has grown and there
+are more people... But I can't seem to
+remember their names at all...
+MES_AREA_TOWN_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+I'm glad this town has been revived...
+Now there are so many more people...
+<PAGE>
+People wear all sorts of clothing...
+It's been a real learning experience...
+I'm so happy...
+MES_AREA_TOWN_03
+
+Msg
+NoMsg
+MES_AREA_MYHOME_VASE
+
+Msg
+NoMsg
+MES_AREA_MYHOME_RECORDE
+
+Msg
+NoMsg
+MES_AREA_MYHOME_FIREPLACE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Err... The man with a beard... That's
+right, Dunhill... He said that this
+town was going to be amazing.
+MES_HEART_WHITE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOSS>
+Ahh...If I could spend the entire day
+doing nothing, that's happiness...
+Sigh...
+MES_HEART_PURPLE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+It takes time... For clothes that I
+can be proud of...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>But even if it takes time... the joy
+upon completion is amazing... That's
+why I don't mind how long it takes...
+MES_HEART_BLUE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+My mother is so kind... But she's scary
+when she's upset... Probably the 
+scariest in town...
+MES_HEART_GREEN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+It's so easy to work in this town... I
+can sew clothes at my pace... Coming
+here was the right thing to do...
+<PAGE>
+If you want to buy clothes... come to
+my shop anytime... You'll be most
+welcome....
+MES_HEART_YELLOW
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I studied fashion until I came to this
+town... I love clothes...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOSS>Plus, I can think about fashion 
+alone... I don't need to talk to anyone
+else...       
+MES_HEART_ORANGE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Thanks to this town where my mom
+lives... I met you, <MYNAME>...
+<PAGE>
+I'm glad I came here... I really am...
+<PAGE>
+<MYNAME>... thank you for being in
+this town...
+MES_HEART_RED
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ANGRY>
+No... Please don't talk to me for a
+while...
+MES_LOVER_HEART_WHITE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+What's wrong? Please talk to me some
+more...
+MES_LOVER_HEART_PURPLE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+<MYNAME>, when you spoke to other
+women... I'd feel so depressed...
+Looking back, I was jealous...
+MES_LOVER_HEART_BLUE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Mom told me to snare you, <MYNAME>...
+But you're not an animal...
+MES_LOVER_HEART_GREEN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+<MYNAME>, since we started going
+out... My designs have changed...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>There's a softness to them... That's
+what people have told me... I guess
+that makes me happy...
+MES_LOVER_HEART_YELLOW
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+I think you're amazing, <MYNAME>...
+You work on your farm while helping the
+town... I really respect that...
+MES_LOVER_HEART_ORANGE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+<MYNAME>... You always give me such
+a warm look... It feels so good... Just
+like the nature in this town...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>Please continue to gaze at me that
+way... I love it... I-I'm so
+embarrassed...
+MES_LOVER_HEART_RED
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+...It's nothing... Don't worry about
+it...
+MES_MARRIAGE_HEART_WHITE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+I want to talk some more... Lately, we
+don't communicate as a couple... So
+let's talk... Okay?
+MES_MARRIAGE_HEART_PURPLE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOSS>
+There's so much work to do on a farm...
+Every day is so hard... It's 
+dizzying...
+MES_MARRIAGE_HEART_BLUE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+When I lived with my mom, she would
+cook the meals... Now, I have to do
+all that...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>When I think back on it... Every day was
+hard on her... I must thank her next
+time I see her...
+MES_MARRIAGE_HEART_GREEN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Cooking is a joy when there's someone to
+eat the food... Sewing is the same...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>I have people who like my clothes... So
+I do my best to sew for them...
+MES_MARRIAGE_HEART_YELLOW
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+You see even the little things in a
+different light when you get married...
+<PAGE>
+Before... I loved doing nothing... Now,
+I want to do so many things for you,
+<MYNAME>...
+<PAGE>
+Is this what being happily married is?
+I'm so glad we got married,
+<MYNAME>...
+MES_MARRIAGE_HEART_ORANGE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOVE>
+<MYNAME>... How do you feel about me?
+<PAGE>
+W-When I think about you, 
+<MYNAME>... my heart starts
+pounding...
+MES_MARRIAGE_HEART_RED
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I still can't believe that you and I are
+dating, <MYNAME>...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOVE>But I'm not sure what one does on
+dates... Please teach me...
+MES_LOVERS_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+What's the matter, <MYNAME>?
+<PAGE>
+Even though we broke up... We can still
+be friends... Can't we?
+MES_LOVERS_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+This is like a dream... We won't fail
+this time... Right, <MYNAME>?
+MES_LOVERS_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOVE>
+I've never even thought about getting
+married... Mom celebrates every day and
+makes me all sorts of apple dishes...
+MES_ENGAGEMENT
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOVE>
+<MYNAME>... D-Don't look this way.
+I don't know what to call you now...
+MES_MARRIAGE_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Your baby is growing inside me,
+<MYNAME>... I still can't quite
+believe it... Is this for real?
+MES_MARRIAGE_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+I feel awful every day... Is this how
+my mother gave birth to me? Motherhood
+isn't easy...
+MES_MARRIAGE_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+My baby kicks every day... It must be
+healthy like you, <MYNAME>... I can't
+wait until I give birth...
+MES_MARRIAGE_03
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Since <CHILD_NAME> was born, my
+stomach has gotten much smaller... I can
+finally wear my clothes again...
+MES_CHILD_GROWTH_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOSS>
+The knee areas are frayed because <CHILD_NAME>
+crawls around so much... I have to mend
+them right away. ...
+MES_CHILD_GROWTH_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+<CHILD_NAME> will make a perfect model
+for children's clothes... It will be
+so fun to try out different outfits...
+MES_CHILD_GROWTH_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+<CHILD_NAME> has grown so big... As a parent,
+I couldn't be happier...
+MES_CHILD_GROWTH_03
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Huh... What is that wonderful smell?
+<PAGE>
+Is that herb soup? It's my favorite...
+It looks delicious...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>Oh... This is quite good... T-Thank
+you...
+MES_PRESENT_BEST
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+For me? Why...? No...It's nothing...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>I love it... T-Thank you...
+MES_PRESENT_VERY
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+For me? Thank you... I like this...
+MES_PRESENT_LIKE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Thank you...
+MES_PRESENT_NORMAL
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOSS>
+Hey...I don't want it... Well, If have
+no choice... I'll take it...
+MES_PRESENT_DISLIKE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+What? It's really quite an imposition...
+MES_PRESENT_HATE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ANGRY>
+Kimchi... It looks so spicy... I don't
+want to look at it...
+MES_PRESENT_WORST
+
+Msg
+NoMsg
+MES_LARGE_PRESENT_BEST
+
+Msg
+NoMsg
+MES_LARGE_PRESENT_VERY
+
+Msg
+NoMsg
+MES_LARGE_PRESENT_LIKE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+It's so big... For me? Thank you...
+MES_LARGE_PRESENT_NORMAL
+
+Msg
+NoMsg
+MES_LARGE_PRESENT_DISLIKE
+
+Msg
+NoMsg
+MES_LARGE_PRESENT_HATE
+
+Msg
+NoMsg
+MES_LARGE_PRESENT_WORST
+
+Msg
+NoMsg
+MES_HUGE_PRESENT_BEST
+
+Msg
+NoMsg
+MES_HUGE_PRESENT_VERY
+
+Msg
+NoMsg
+MES_HUGE_PRESENT_LIKE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+This is huge... For me? Thank you...
+MES_HUGE_PRESENT_NORMAL
+
+Msg
+NoMsg
+MES_HUGE_PRESENT_DISLIKE
+
+Msg
+NoMsg
+MES_HUGE_PRESENT_HATE
+
+Msg
+NoMsg
+MES_HUGE_PRESENT_WORST
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I don't want it...
+MES_PRESENT_RESERVE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+No... I'm set for today...
+MES_LOVER_PRESENT_RESERVE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+No thanks... I don't want it until
+you understand what's wrong with it...
+MES_MARRIAGE_PRESENT_RESERVE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I don't want it... You already gave me
+something...
+MES_PRESENT_SECONDTIME
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Thank you... But you already gave me
+something...
+MES_LOVER_PRESENT_SECONDTIME
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Thank you, <MYNAME>... you already
+gave me something...
+MES_MARRIAGE_PRESENT_SECONDTIME
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Correct... Today is my birthday...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>...Herb soup? Thank you... I'm so
+happy...
+<PAGE>
+I'll be sure to enjoy this...
+MES_BIRTHDAY_PRESENT_BEST
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Correct... Today is my birthday...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>For me? I love this... I'm so happy...
+Thank you...
+MES_BIRTHDAY_PRESENT_VERY
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Correct... Today is my birthday...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>For me? I love this... Thank you...
+MES_BIRTHDAY_PRESENT_LIKE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Correct... Today is my birthday...
+Thank you...
+MES_BIRTHDAY_PRESENT_NORMAL
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Correct... Today is my birthday...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOSS>I don't want this...
+MES_BIRTHDAY_PRESENT_DISLIKE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Correct... Today is my birthday...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_SAD>I don't want this for my birthday...
+It's an imposition...
+MES_BIRTHDAY_PRESENT_HATE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Correct... Today is my birthday...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ANGRY>Kimchi for my birthday? Not a chance...
+MES_BIRTHDAY_PRESENT_WORST
+
+Msg
+NoMsg
+MES_BIRTHDAY_LARGE_PRESENT_BEST
+
+Msg
+NoMsg
+MES_BIRTHDAY_LARGE_PRESENT_VERY
+
+Msg
+NoMsg
+MES_BIRTHDAY_LARGE_PRESENT_LIKE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Correct... Today is my birthday...
+<PAGE>
+Such a big birthday present... Thank
+you...
+MES_BIRTHDAY_LARGE_PRESENT_NORMAL
+
+Msg
+NoMsg
+MES_BIRTHDAY_LARGE_PRESENT_DISLIKE
+
+Msg
+NoMsg
+MES_BIRTHDAY_LARGE_PRESENT_HATE
+
+Msg
+NoMsg
+MES_BIRTHDAY_LARGE_PRESENT_WORST
+
+Msg
+NoMsg
+MES_BIRTHDAY_HUGE_PRESENT_BEST
+
+Msg
+NoMsg
+MES_BIRTHDAY_HUGE_PRESENT_VERY
+
+Msg
+NoMsg
+MES_BIRTHDAY_HUGE_PRESENT_LIKE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Correct... Today is my birthday...
+<PAGE>
+Such a huge birthday present... How did
+you grow it? Thank you...
+MES_BIRTHDAY_HUGE_PRESENT_NORMAL
+
+Msg
+NoMsg
+MES_BIRTHDAY_HUGE_PRESENT_DISLIKE
+
+Msg
+NoMsg
+MES_BIRTHDAY_HUGE_PRESENT_HATE
+
+Msg
+NoMsg
+MES_BIRTHDAY_HUGE_PRESENT_WORST
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Chicks? They're peeping so cheerfully...
+MES_CHICK
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+May I use her feathers for an outfit?
+<PAGE>
+No? Too bad...
+MES_HEN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I want her huge feathers... They're so
+unusual... I want to display them...
+MES_LARGE_HEN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+It's licking my hand... So ticklish...
+Is it tasty?
+MES_DOG
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Why is it so fat? How unusual...
+MES_FAT_DOG
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+It's so big... I could ride it... No?
+<PAGE>
+How boring...
+MES_LARGEDOG
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+So soft...and warm...
+MES_FAT_LARGEDOG
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+May I hold it?
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>How cute...
+MES_CAT
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+May I hold her?
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOSS>So heavy... I'm about to fall.
+MES_FAT_CAT
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+It must feel nice to pet it... May I?
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>It feels so good...
+MES_LONGHAIR_CAT
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+It's so fluffy... It feels nice... I
+could pet it forever...
+MES_FAT_LONGHAIR_CAT
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Flowers... How pretty... For me? Thank
+you...
+MES_FLOWER_FESTIVAL
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+A present for the Flower Festival?
+I-I'm so happy... Thank you,
+<MYNAME>...
+MES_LOVER_FLOWER_FESTIVAL
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+I'll cherish these flowers... Thank
+you,  <MYNAME>... I'm so lucky...<RED>
+MES_MARRIAGE_FLOWER_FESTIVAL
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I accept... Thank you...
+MES_THANKSGIVIING_FESTIVAL_S
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+From you, <MYNAME>? I'll relish every
+morsel... Thank you...<RED>
+MES_LOVER_THANKSGIVIING_FESTIVAL_S
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Thank you, <MYNAME>... Made especially
+by you... I can't wait to taste it...
+I'm sure it will be delicious...
+MES_MARRIAGE_THANKSGIVIING_FESTIVAL_S
+
+Msg
+NoMsg
+MES_THANKSGIVIING_FESTIVAL_W
+
+Msg
+NoMsg
+MES_LOVER_THANKSGIVIING_FESTIVAL_W
+
+Msg
+NoMsg
+MES_MARRIAGE_THANKSGIVIING_FESTIVAL_W
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+...What? Today is the Pumpkin
+Festival... It's for children... But if
+it's all the same, I'll take it. 
+MES_HALLOWEEN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+I-It looks delicious... Are you sure I
+can have it, <MYNAME>? Mmmm...
+Quite satisfying...
+MES_LOVER_HALLOWEEN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+It's candy for the Pumpkin Festival...
+For me, <MYNAME>? How nice...
+Thank you...
+MES_MARRIAGE_HALLOWEEN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+What is this? Such a pretty feather...
+I know... I'll use it in a new
+design...
+MES_BLUE_SHUTTLECOCK
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+A blue feather? What is it for?
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOSS>What are you saying? I couldn't do
+such a thing...
+MES_LOVER_BLUE_SHUTTLECOCK
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOVE>
+Not here... It's embarrassing... Let's
+go over there, <MYNAME>...
+MES_EVENT_BLUE_SHUTTLECOCK
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOVE>
+A blue feather...a proposal... Oh...put
+it away... This is embarrassing...
+MES_PROPOSAL_BLUE_SHUTTLECOCK
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+The blue feather you gave me... Because
+of this... We were able to get 
+married...
+MES_MARRIAGE_BLUE_SHUTTLECOCK
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ANGRY>
+I heard from my mother... You showed
+a blue feather to someone else,
+<MYNAME>... Why would you do that?
+MES_ANGER_BLUE_SHUTTLECOCK
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+A ring? What is this?
+MES_RING
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOSS>
+A ring? You want me to come over?
+Well... Sure, I guess...
+MES_EVENT_RING
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+<MYNAME> gave me this ring. That means 
+we can start dating...
+MES_LOVER_RING
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+How nostalgic... A cherished memory of
+myself and <MYNAME>...
+MES_MARRIAGE_RING
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ANGRY>
+I heard from my mother... You showed
+a ring to someone else, <MYNAME>...
+Why would you do that?
+MES_ANGER_RING
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Oh... Don't peck at my finger... Sorry, 
+I don't have any food. 
+MES_WILD_ANIMAL_BIRD
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+This place has so many animals... It's
+fun to watch them...
+MES_WILD_ANIMAL_OTHER
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+She's thrashing about... We have to
+free the poor thing....
+MES_WILD_ANIMAL_TURTLE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Happy birthday... Here you go, a
+present... Please use it...
+MES_PLAYER_BIRTHDAY_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+<MYNAME>, happy birthday...
+MES_PLAYER_BIRTHDAY_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Today is your birthday, <MYNAME>...
+I have something I want to give you...
+Be at home around <BLUE>7:00 PM</BLUE>...
+MES_PLAYER_BIRTHDAY_02
+
+Msg
+NoMsg
+MES_GIFT_00
+
+Msg
+NoMsg
+MES_GIFT_01
+
+Msg
+NoMsg
+MES_GIFT_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Here, <MYNAME>... For you... You
+need to build up your stamina so that
+you don't collapse...
+MES_LOVER_GIFT_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+You don't look well, <MYNAME>... Has
+work been busy?
+<PAGE>
+Here, you can have this. Thank you for
+coming when you're so busy.
+MES_LOVER_GIFT_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Oh... Mom said to give this to you,
+<MYNAME>...
+<PAGE>
+It's a token of thanks for always
+helping me out... Eat up...
+MES_LOVER_GIFT_02
+
+Msg
+NoMsg
+MES_MARRAGE_GIFT_00
+
+Msg
+NoMsg
+MES_MARRAGE_GIFT_01
+
+Msg
+NoMsg
+MES_MARRAGE_GIFT_02
+
+Msg
+NoMsg
+MES_LOVER_DATE_INDUCE_00
+
+Msg
+NoMsg
+MES_LOVER_DATE_INDUCE_01
+
+Msg
+NoMsg
+MES_LOVER_DATE_INDUCE_02
+
+Msg
+NoMsg
+MES_LOVER_DATE_INDUCE_OK
+
+Msg
+NoMsg
+MES_LOVER_DATE_INDUCE_NG
+
+Msg
+NoMsg
+MES_MARRAGE_DATE_INDUCE_00
+
+Msg
+NoMsg
+MES_MARRAGE_DATE_INDUCE_01
+
+Msg
+NoMsg
+MES_MARRAGE_DATE_INDUCE_02
+
+Msg
+NoMsg
+MES_MARRAGE_DATE_INDUCE_OK
+
+Msg
+NoMsg
+MES_MARRAGE_DATE_INDUCE_NG
+
+Msg
+NoMsg
+MES_LOVER_DATE_ANGER
+
+Msg
+NoMsg
+MES_MARRAGE_DATE_ANGER
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Uh, who... Oh...<MYNAME>...
+MES_LONG_INTERVAL
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+How have you been? I wish we could meet
+more often... Like before...
+MES_LOVER_LONG_INTERVAL
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+Why won't you speak to me? Did I do
+something wrong? If so... I'm sorry...
+MES_MARRAGE_LONG_INTERVAL
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOSS>
+Oh... It's hot... I never thought it
+would get this hot...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>But I'm glad I was able to come to such
+a beautiful beach...
+<PAGE>
+This is another memory we'll share,
+<MYNAME>... I'm so happy...
+MES_MARRIAGE_TRAVEL_SOUTH_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+The blue sky... Blue ocean... I could
+gaze out at them all day long...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>Heh... Don't worry... I won't say I want
+to live here...
+<PAGE>
+The farm where you are, <MYNAME>...
+That's where I call home...
+MES_MARRIAGE_TRAVEL_SOUTH_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+The beach... the white foam and sand...
+And all sorts of seashells....
+<PAGE>
+This ocean gives me so many different
+design ideas...
+MES_MARRIAGE_TRAVEL_SOUTH_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+This place is so tribal... It has a
+peculiar atmosphere...
+<PAGE>
+It might be a little scary... But I
+don't dislike it...
+MES_MARRIAGE_TRAVEL_REMAINS_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOSS>
+Say, <MYNAME>, there's supposed to
+be an unusual bird here...but...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>Can you tell me if you see it? But don't
+go out of your way to catch it...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>I just want to see how it lives...
+MES_MARRIAGE_TRAVEL_REMAINS_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Tribal clothes... They express a
+culture's legends and traditions...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_SAD>I'd like to try and create such original
+designs and patterns...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH><MYNAME>, if I'm with you, I think I
+can do it... You think so too... Right?
+MES_MARRIAGE_TRAVEL_REMAINS_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Pink...how pretty... So pretty... This
+garden is amazing too...
+<PAGE>
+Thank you, <MYNAME>... for bringing me
+to such a place...
+<PAGE>
+I'm in awe... I'm so glad we came...
+MES_MARRIAGE_TRAVEL_JAPAN_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+<MYNAME>... I'd like to cross that
+bridge with you...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_SAD>I-If you're busy fishing, never
+mind... Really, it's okay...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>Hand? Y-Yes, I'd like to hold hands...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOVE>Thank you...
+MES_MARRIAGE_TRAVEL_JAPAN_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+It would be wonderful to sell Eastern
+style clothing in the shop some day...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>Beautiful woven pieces in bright
+colors... Just having some would
+enhance the shop...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>My dreams are getting bigger and
+bigger... Heh...
+MES_MARRIAGE_TRAVEL_JAPAN_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOSS>
+I-I don't need to say it... Right?
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_SAD>It's cold...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOSS>But a world of ice is pretty...Brrr...
+When I get home... I'll design some
+warmer clothes...
+MES_MARRIAGE_TRAVEL_SNOWY_00
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOSS>
+A weasel... I want to see a weasel.
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>Searching for it in this silvery-white
+world is going to be fun.
+<PAGE>
+Oh! No, that's not it. *Giggle*
+MES_MARRIAGE_TRAVEL_SNOWY_01
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Your hand...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>Heh... Your hand is cold too, <MYNAME>...
+We can warm them up... If we hold 
+hands...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOVE>So let's just stay like this for
+a while...
+MES_MARRIAGE_TRAVEL_SNOWY_02
+
+Msg
+NoMsg
+MES_TRAVEL_LEAVE_00
+
+Msg
+NoMsg
+MES_TRAVEL_LEAVE_01
+
+Msg
+NoMsg
+MES_TRAVEL_LEAVE_02
+
+Msg
+NoMsg
+MES_TRAVEL_LEAVE_OK
+
+Msg
+NoMsg
+MES_TRAVEL_LEAVE_NG
+
+Msg
+NoMsg
+MES_RESORT_LEAVE_00
+
+Msg
+NoMsg
+MES_RESORT_LEAVE_01
+
+Msg
+NoMsg
+MES_RESORT_LEAVE_02
+
+Msg
+NoMsg
+MES_RESORT_LEAVE_OK
+
+Msg
+NoMsg
+MES_RESORT_LEAVE_NG
+
+Msg
+NoMsg
+MES_M_UNIFORM_1
+
+Msg
+NoMsg
+MES_W_UNIFORM_1
+
+Msg
+NoMsg
+MES_M_UNIFORM_2
+
+Msg
+NoMsg
+MES_W_UNIFORM_2
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+That outfit is so you, <MYNAME>... I
+think it really becomes you...
+MES_M_UNIFORM_3
+
+Msg
+NoMsg
+MES_W_UNIFORM_3
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+A blue hoodie... I designed that with
+you in mind, <MYNAME>...
+<PAGE>
+Mmm... It looks good on you, <MYNAME>...
+MES_M_UNIFORM_4
+
+Msg
+NoMsg
+MES_W_UNIFORM_4
+
+Msg
+NoMsg
+MES_M_UNIFORM_5
+
+Msg
+NoMsg
+MES_W_UNIFORM_5
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOVE>
+That green checkered jacket is one of my
+favorites...
+<PAGE>
+Thank you for wearing it...
+MES_M_UNIFORM_6
+
+Msg
+NoMsg
+MES_W_UNIFORM_6
+
+Msg
+NoMsg
+MES_M_UNIFORM_7
+
+Msg
+NoMsg
+MES_W_UNIFORM_7
+
+Msg
+NoMsg
+MES_M_UNIFORM_8
+
+Msg
+NoMsg
+MES_W_UNIFORM_8
+
+Msg
+NoMsg
+MES_M_UNIFORM_9
+
+Msg
+NoMsg
+MES_W_UNIFORM_9
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+That outfit suits you, <MYNAME>... It
+was worth the effort it took to sew
+it...
+MES_M_UNIFORM_10
+
+Msg
+NoMsg
+MES_W_UNIFORM_10
+
+Msg
+NoMsg
+MES_M_UNIFORM_11
+
+Msg
+NoMsg
+MES_W_UNIFORM_11
+
+Msg
+NoMsg
+MES_M_UNIFORM_12
+
+Msg
+NoMsg
+MES_W_UNIFORM_12
+
+Msg
+NoMsg
+MES_M_EVERYDAY_WEAR_1
+
+Msg
+NoMsg
+MES_W_EVERYDAY_WEAR_1
+
+Msg
+NoMsg
+MES_M_EVERYDAY_WEAR_2
+
+Msg
+NoMsg
+MES_W_EVERYDAY_WEAR_2
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+That lime green coat is one of my
+favorites...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOVE><MYNAME>, I'm so happy to see you wearing
+it...
+MES_M_EVERYDAY_WEAR_3
+
+Msg
+NoMsg
+MES_W_EVERYDAY_WEAR_3
+
+Msg
+NoMsg
+MES_M_EVERYDAY_WEAR_4
+
+Msg
+NoMsg
+MES_W_EVERYDAY_WEAR_4
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Oh, you're wearing that outfit,
+<MYNAME>... You look so comfortable in
+it...
+<PAGE>
+Thank you for wearing it...
+MES_M_EVERYDAY_WEAR_5
+
+Msg
+NoMsg
+MES_W_EVERYDAY_WEAR_5
+
+Msg
+NoMsg
+MES_M_EVERYDAY_WEAR_6
+
+Msg
+NoMsg
+MES_W_EVERYDAY_WEAR_6
+
+Msg
+NoMsg
+MES_M_EVERYDAY_WEAR_7
+
+Msg
+NoMsg
+MES_W_EVERYDAY_WEAR_7
+
+Msg
+NoMsg
+MES_M_EVERYDAY_WEAR_8
+
+Msg
+NoMsg
+MES_W_EVERYDAY_WEAR_8
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Isn't that outfit fun? I had a great
+time designing and sewing it...
+<PAGE>
+I wasn't sure if someone could pull off
+the look, but I'm so glad... You look
+great in it, <MYNAME>...
+MES_M_EVERYDAY_WEAR_9
+
+Msg
+NoMsg
+MES_W_EVERYDAY_WEAR_9
+
+Msg
+NoMsg
+MES_M_EVERYDAY_WEAR_10
+
+Msg
+NoMsg
+MES_W_EVERYDAY_WEAR_10
+
+Msg
+NoMsg
+MES_M_EVERYDAY_WEAR_11
+
+Msg
+NoMsg
+MES_W_EVERYDAY_WEAR_11
+
+Msg
+NoMsg
+MES_M_EVERYDAY_WEAR_12
+
+Msg
+NoMsg
+MES_W_EVERYDAY_WEAR_12
+
+Msg
+NoMsg
+MES_M_CASUAL_1
+
+Msg
+NoMsg
+MES_W_CASUAL_1
+
+Msg
+NoMsg
+MES_M_CASUAL_2
+
+Msg
+NoMsg
+MES_W_CASUAL_2
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Oh... when I was sewing that outfit... I
+was thinking of you, <MYNAME>...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOVE>And it suits you... I'm so glad to
+see you wearing it... Thank you...
+MES_M_CASUAL_3
+
+Msg
+NoMsg
+MES_W_CASUAL_3
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+That blue down vest looks good on you, 
+<MYNAME>...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOSS>I think I was subconsciously thinking of
+what suits you, <MYNAME>...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>Lately, I think about you all the
+time... I really have to be more
+careful...
+MES_M_CASUAL_4
+
+Msg
+NoMsg
+MES_W_CASUAL_4
+
+Msg
+NoMsg
+MES_M_CASUAL_5
+
+Msg
+NoMsg
+MES_W_CASUAL_5
+
+Msg
+NoMsg
+MES_M_CASUAL_6
+
+Msg
+NoMsg
+MES_W_CASUAL_6
+
+Msg
+NoMsg
+MES_M_CASUAL_7
+
+Msg
+NoMsg
+MES_W_CASUAL_7
+
+Msg
+NoMsg
+MES_M_CASUAL_8
+
+Msg
+NoMsg
+MES_W_CASUAL_8
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Oh, that outfit looks good on you, 
+<MYNAME>...
+<PAGE>
+Actually, I was thinking of you while I
+was sewing it...
+MES_M_CASUAL_9
+
+Msg
+NoMsg
+MES_W_CASUAL_9
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOVE>
+Oh... I was so pleased with myself when
+I sewed that outfit... I'm happy to see
+you wearing it...
+MES_M_CASUAL_10
+
+Msg
+NoMsg
+MES_W_CASUAL_10
+
+Msg
+NoMsg
+MES_M_CASUAL_11
+
+Msg
+NoMsg
+MES_W_CASUAL_11
+
+Msg
+NoMsg
+MES_M_CASUAL_12
+
+Msg
+NoMsg
+MES_W_CASUAL_12
+
+Msg
+NoMsg
+MES_DOCTOR_WHITE
+
+Msg
+NoMsg
+MES_DOCTOR_BLACK
+
+Msg
+NoMsg
+MES_COOK_WHITE
+
+Msg
+NoMsg
+MES_COOK_GREEN
+
+Msg
+NoMsg
+MES_NINJA_BLUE
+
+Msg
+NoMsg
+MES_NINJA_RED
+
+Msg
+NoMsg
+MES_NINJA_WHITE
+
+Msg
+NoMsg
+MES_NINJA_YELLOW
+
+Msg
+NoMsg
+MES_NINJA_GREEN
+
+Msg
+NoMsg
+MES_CHINA_RED
+
+Msg
+NoMsg
+MES_CHINA_BLUE
+
+Msg
+NoMsg
+MES_COWBOY
+
+Msg
+NoMsg
+MES_HOUSEMAID_BLACK
+
+Msg
+NoMsg
+MES_HOUSEMAID_PINK
+
+Msg
+NoMsg
+MES_HOUSEMAID_BLUE
+
+Msg
+NoMsg
+MES_STEWARD_BLACK
+
+Msg
+NoMsg
+MES_STEWARD_RED
+
+Msg
+NoMsg
+MES_STEWARD_BLUE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOVE>
+That big cat is so cute... Can I...give
+it a hug?
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>Huh? Of course, I know it's you inside,
+<MYNAME>...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOSS>I love cats and I love you, <MYNAME>...
+I was going to give you both a hug...
+Won't you let me?
+MES_ANIMAL_CAT
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_LOVE>
+That big dog is so cute... Can I...give
+it a hug?
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>Huh? Of course, I know it's you inside,
+<MYNAME>...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOSS>I love dogs and I love you, <MYNAME>...
+I was going to give you both a hug...
+Won't you let me?
+MES_ANIMAL_DOG
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH><MYNAME>... You look great in that
+outfit... It's so stylish... Even though
+it's a costume...
+MES_ANIMAL_BEAR
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH><MYNAME>... You look great in that
+outfit... It's cute....
+MES_ANIMAL_PANDA
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Welcome... If you'd like some clothes, I
+can sew them right away as long as I
+have the materials...
+MES_SCHEDULE_SHOP_OPEN
+
+Msg
+...Mnnn...Everyone...run away... It's...
+coming...
+MES_SCHEDULE_SLEEP_00
+
+Msg
+NoMsg
+MES_LOVER_SCHEDULE_SLEEP_00
+
+Msg
+NoMsg
+MES_MARRAGE_SCHEDULE_SLEEP_00
+
+Msg
+NoMsg
+MES_SCHEDULE_POSTMAN
+
+Msg
+NoMsg
+MES_SCHEDULE_HALL_PART
+
+Msg
+NoMsg
+MES_SCHEDULE_SHIPMENT
+
+Msg
+NoMsg
+MES_SCHEDULE_NEET
+
+Msg
+NoMsg
+MES_SCHEDULE_MAGICSHOW
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+How do I feel? Fine... I just need some
+sleep...
+MES_SCHEDULE_SICK
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+Don't worry... It'll go away if I don't
+overdo things...
+MES_LOVER_SCHEDULE_SICK
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_SAD>
+Please don't bother me today... I'm
+tired... I'm going to sleep....
+MES_MARRIAGE_SCHEDULE_SICK
+
+Msg
+NoMsg
+MES_SCHEDULE_WALK
+
+Msg
+NoMsg
+MES_SCHEDULE_COOK
+
+Msg
+NoMsg
+MES_SCHEDULE_SITDOWN
+
+Msg
+NoMsg
+MES_SCHEDULE_DOZE
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_BARBAR
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_PET
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_ANIMAL
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_TAILOR
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_TRAVEL
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_DESIGN
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_FISHING
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_GOODS
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_MERCHANT
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_RESTAURANT
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_RESTAURANT_MAGIC
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_CAFE
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_MOVIE_THEATER
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_HOSPITAL
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_INN
+
+Msg
+NoMsg
+MES_SCHEDULE_SHOPPING_BLACKSMITH
+
+Msg
+NoMsg
+MES_SCHEDULE_FISHING
+
+Msg
+NoMsg
+MES_SCHEDULE_INSECT
+
+Msg
+NoMsg
+MES_SCHEDULE_COLLECTION
+
+Msg
+NoMsg
+MES_SCHEDULE_MINE
+
+Msg
+NoMsg
+MES_SCHEDULE_STUDY
+
+Msg
+NoMsg
+MES_SCHEDULE_TALKING_00
+
+Msg
+NoMsg
+MES_SCHEDULE_TALKING_01
+
+Msg
+NoMsg
+MES_SCHEDULE_TALKING_02
+
+Msg
+NoMsg
+MES_SCHEDULE_TALKING_03
+
+Msg
+NoMsg
+MES_SCHEDULE_TALKING_04
+
+Msg
+NoMsg
+MES_SCHEDULE_GARDENING
+
+Msg
+NoMsg
+MES_SCHEDULE_PLAY_00
+
+Msg
+NoMsg
+MES_SCHEDULE_PLAY_01
+
+Msg
+NoMsg
+MES_SCHEDULE_PLAY_02
+
+Msg
+NoMsg
+MES_SCHEDULE_PLAY_03
+
+Msg
+NoMsg
+MES_SCHEDULE_PLAY_04
+
+Msg
+NoMsg
+MES_SCHEDULE_FESTIVAL
+
+Msg
+NoMsg
+MES_SCHEDULE_REST
+
+Msg
+NoMsg
+MES_SCHEDULE_MUSIC
+
+Msg
+NoMsg
+MES_SCHEDULE_EAT
+
+Msg
+NoMsg
+MES_SCHEDULE_WITCH_SHOP
+
+Msg
+NoMsg
+MES_SCHEDULE_WITCH_SHOP2
+
+Msg
+NoMsg
+MES_SCHEDULE_WITCH_SHOP_OPEN
+
+Msg
+NoMsg
+MES_SCHEDULE_WITCH_SHOP_NG
+
+Msg
+NoMsg
+MES_SCHEDULE_SEEING
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+<MYNAME>... Do you need help tomorrow?
+I have a day off and can help you...
+MES_HELP_REQUEST_00
+
+Msg
+Ask for help. 
+MES_HELP_REQUEST_01
+
+Msg
+Don't need help.
+MES_HELP_REQUEST_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Okay then... Maybe next time...
+MES_HELP_REQUEST_CANCEL
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Yes... I'll work hard.... So you can
+sleep in, <MYNAME>...
+MES_HELP_REQUEST_OK
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Yummy...This is heaven...
+MES_MEAL_00
+
+Msg
+NoMsg
+MES_BREAKFAST_01
+
+Msg
+NoMsg
+MES_BREAKFAST_02
+
+Msg
+NoMsg
+MES_LUNCH_00
+
+Msg
+NoMsg
+MES_LUNCH_01
+
+Msg
+NoMsg
+MES_LUNCH_02
+
+Msg
+NoMsg
+MES_DINNER_00
+
+Msg
+NoMsg
+MES_DINNER_01
+
+Msg
+NoMsg
+MES_DINNER_02
+
+Msg
+NoMsg
+MES_MEAL_DEMO_00
+
+Msg
+NoMsg
+MES_MEAL_DEMO_01
+
+Msg
+NoMsg
+MES_MEAL_DEMO_02
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Why are you looking at me like that? Do
+you want some too, <MYNAME>?
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOVE>Okay... Open wide... Isn't it delicious?
+MES_MEAL_01
+
+Msg
+NoMsg
+MES_LOVER_BREAKFAST_01
+
+Msg
+NoMsg
+MES_LOVER_BREAKFAST_02
+
+Msg
+NoMsg
+MES_LOVER_LUNCH_00
+
+Msg
+NoMsg
+MES_LOVER_LUNCH_01
+
+Msg
+NoMsg
+MES_LOVER_LUNCH_02
+
+Msg
+NoMsg
+MES_LOVER_DINNER_00
+
+Msg
+NoMsg
+MES_LOVER_DINNER_01
+
+Msg
+NoMsg
+MES_LOVER_DINNER_02
+
+Msg
+NoMsg
+MES_LOVER_MEAL_DEMO_00
+
+Msg
+NoMsg
+MES_LOVER_MEAL_DEMO_01
+
+Msg
+NoMsg
+MES_LOVER_MEAL_DEMO_02
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_BEE_BOX
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_FISH_FARM
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_MUSH_SPACE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_HOT_SPRING
+
+Msg
+NoMsg
+MES_FARM_CROP
+
+Msg
+NoMsg
+MES_FARM_CROP_MANY_00
+
+Msg
+NoMsg
+MES_FARM_CROP_MANY_01
+
+Msg
+NoMsg
+MES_FARM_ANIMAL
+
+Msg
+NoMsg
+MES_FARM_ANIMAL_MANY_00
+
+Msg
+NoMsg
+MES_FARM_ANIMAL_MANY_01
+
+Msg
+NoMsg
+MES_FARM_PET
+
+Msg
+NoMsg
+MES_FARM_PET_MANY_00
+
+Msg
+NoMsg
+MES_FARM_PET_MANY_01
+
+Msg
+NoMsg
+MES_TOWN_EUROPEAN_MASTER
+
+Msg
+NoMsg
+MES_TOWN_JAPANESE_MASTER
+
+Msg
+NoMsg
+MES_TOWN_NATIVE_MASTER
+
+Msg
+NoMsg
+MES_TOWN_COUNTRY_MASTER
+
+Msg
+NoMsg
+MES_TOWN_EUROPEAN
+
+Msg
+NoMsg
+MES_TOWN_JAPANESE
+
+Msg
+NoMsg
+MES_TOWN_NATIVE
+
+Msg
+NoMsg
+MES_TOWN_COUNTRY
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BENCH_WOOD
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BENCH_STONE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BENCH_RED
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I like green benches... It looks very
+comfortable...
+MES_ITEMCOMMENT_PLAN_BENCH_GREEN
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BENCH_BLUE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BENCH_YELLOW
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BENCH_PINK
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BENCH_PURPLE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BENCH_WHITE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BENCH_BLACK
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BENCH_GOLD
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BENCH_SILVER
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BARREL
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_WOOD_BOX
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+The scarecrow's clothes are so shabby...
+I'll make nice, new ones...
+MES_ITEMCOMMENT_PLAN_SCARECROW
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_WEATHERCOCK
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_MILK_CAN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+There are bales of hay.... I love the
+smell...
+MES_ITEMCOMMENT_PLAN_GRASS_ROLL
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BLOCK_BRICH
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_JAR_RED
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_JAR_BLUE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_JAR_WHITE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+A cart...in good condition too...
+MES_ITEMCOMMENT_PLAN_SMALL_CART
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_WAGON
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_CART
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+What a large table... The pattern is
+...very pretty... It'll be nice to sit
+and enjoy a cup of tea...
+MES_ITEMCOMMENT_PLAN_TABLE_WEST
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TABLE_JAPAN
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TABLE_ORIENT
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+What a pretty chair... It looks so
+comfortable...
+MES_ITEMCOMMENT_PLAN_CHAIR_WEST
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_CHAIR_JAPAN
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_CHAIR_ORIENT
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_CHAIR_BEACH
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+A parasol table... Wouldn't it be nice
+to have tea time in the garden?
+MES_ITEMCOMMENT_PLAN_PARASOL_WEST
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_PARASOL_JAPAN
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_PARASOL_BEACH
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_STREETLAMP_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_STREETLAMP_2
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+The fire is burning... It brings back 
+memories...
+MES_ITEMCOMMENT_PLAN_BONFIRE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+The paper lanterns are lit... It's such
+a primal warmth... The design is simple
+and beautiful too...
+MES_ITEMCOMMENT_PLAN_ANDON
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_GARDENLANTERN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+A thick wooden pillar? It looks so
+solid... There's something up ahead...?
+MES_ITEMCOMMENT_PLAN_PILLAR_WOOD
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_PILLAR_STONE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_PILLAR_BRICK
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TOTEM POLE_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TOTEM POLE_2
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I know this dog statue... The loyal dog,
+waiting for its master...
+MES_ITEMCOMMENT_PLAN_STATUE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_STATUE_SUN
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_STATUE_PIKE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_STATUE_SHIELD
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FOUNTAIN_ANIMAL
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FOUNTAIN_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FOUNTAIN_2
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BRIDGE_DIGIT
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BRIDGE_ARCH
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_WELL
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TRAM
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_WATCHTOWER
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FIRE_EXTINGUISHER
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_DARUMA
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_KADOMATU
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SHISHIODOSHI
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_ANCHOR
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+A hammock...it looks so comfortable...
+The design is pretty too... I feel a
+design idea coming into my head...
+MES_ITEMCOMMENT_PLAN_HAMMOCK
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_OBELISK
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SLATE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_MOVING_CAR
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SHISHIMAI
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+A mechanical...panda? I want to ride
+it!
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_SAD>That's okay...
+MES_ITEMCOMMENT_PLAN_PANDA
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_ROBOT
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_2
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_3
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_4
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_5
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_6
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_7
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_8
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_9
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I like the feel of this place... It's
+quite fashionable...
+MES_ITEMCOMMENT_PLAN_SET_10
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I like the feel of this place... It's
+pretty...and fashionable...
+MES_ITEMCOMMENT_PLAN_SET_11
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I like the feel of this place... It's so
+luxurious...and fashionable...
+MES_ITEMCOMMENT_PLAN_SET_12
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_13
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_14
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_15
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_16
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_17
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_SET_18
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+So much greenery... What a pretty
+garden... It feels so good...
+MES_ITEMCOMMENT_PLAN_SET_19
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+So much greenery... What a pretty
+garden with lush hedges...
+MES_ITEMCOMMENT_PLAN_SET_20
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+All this greenery... What a beautiful
+garden... But...it's a bit
+ostentatious...
+MES_ITEMCOMMENT_PLAN_SET_21
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_POT_PINKROSE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_POT_MARGUERITE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_POT_TULIP
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_POT_SUNFLOWER
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_POT_REDROSE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+I love hydrangeas...
+MES_ITEMCOMMENT_PLAN_POT_HYDRANGEA
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Nadeshiko are such dainty flowers... And
+so graceful and pretty...
+MES_ITEMCOMMENT_PLAN_POT_PINK
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_POT_WHITEROSE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_POT_GARBERA
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_POT_SNOWDROP
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Blue gentians are so pretty... I'd like
+to incorporate them into a dress
+design...
+MES_ITEMCOMMENT_PLAN_POT_RINDOU
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+I love blue roses...
+MES_ITEMCOMMENT_PLAN_POT_BLUEROSE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+The thorns on cacti look painful... But
+the flowers are pretty...
+MES_ITEMCOMMENT_PLAN_POT_CACTUS
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_PLANTER_PINKROSE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_PLANTER_MARGUERITE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_PLANTER_TULIP
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_PLANTER_SUNFLOWER
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_PLANTER_REDROSE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+I love hydrangeas... When there are
+a lot, it's so pretty...
+MES_ITEMCOMMENT_PLAN_PLANTER_HYDRANGEA
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Nadeshiko are such dainty flowers... And
+so graceful and pretty...
+MES_ITEMCOMMENT_PLAN_PLANTER_PINK
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_PLANTER_WHITEROSE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_PLANTER_GARBERA
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_PLANTER_SNOWDROP
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Blue gentians are so pretty... I'd like
+to incorporate them into a dress
+design...
+MES_ITEMCOMMENT_PLAN_PLANTER_RINDOU
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+I love blue roses... When there are
+lots, it's so pretty...
+MES_ITEMCOMMENT_PLAN_PLANTER_BLUEROSE
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+The thorns on cacti look painful... But
+the flowers are pretty...
+MES_ITEMCOMMENT_PLAN_PLANTER_CACTUS
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Bamboos grow refreshingly straight...
+MES_ITEMCOMMENT_PLAN_POT_BAMBOO
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BONSAI
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_POT_CHRRYBLOSSOM
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Gingko trees in autumnal colors are
+pretty... I wonder how it gets such
+beautiful yellow hues...
+MES_ITEMCOMMENT_PLAN_POT_GINGKO
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_POT_PALM
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BASKET_RED
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BASKET_GREEN
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BASKET_YELLOW
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BASKET_PINK
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BASKET_PURPLE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_BASKET_WHITE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TOPIARY_BOXWOOD
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I like the green of cone trees...
+They're conifers... So they're green all
+year long...
+MES_ITEMCOMMENT_PLAN_TOPIARY_CONIFER
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TOPIARY_BALL_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TOPIARY_BALL_2
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TOPIARY_BOX
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TOPIARY_LION
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TOPIARY_MAMMOTH
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Being in a bamboo grove makes you feel
+very peaceful...
+<PAGE>
+It's quiet and unfettered...and I'm able
+to envision lots of designs...
+MES_ITEMCOMMENT_PLAN_TREE_BAMBOO
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TREE_PINEAL
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TREE_CHERRYBLOSSOM
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+Gingko trees in autumnal colors are
+pretty... I wonder how they get such
+beautiful yellow hues...
+MES_ITEMCOMMENT_PLAN_TREE_GINGKO
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TREE_PALM
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_LATTICE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_OMANENT_COW
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_OMANENT_SHEEP
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_OMANENT_COCK
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_OMANENT_HORSE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TIN_TRICYCLE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TIN_WATERING_CAN
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_TIN_BOOTS
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_ARCH_RED_FLOWER
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_ARCH_BLUE_FLOWER
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_GAZEBO
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I think an arbor with roses entwined
+around it is so pretty...
+MES_ITEMCOMMENT_PLAN_PERGOLA
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+If you take several curved arbors with
+roses entwined around them... I think
+you could make a flower house...
+MES_ITEMCOMMENT_PLAN_FAN_PERGOLA
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_WOOD_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_STONE_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_BAMBOO_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_RED_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_GREEN_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_BLUE_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_YELLOW_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_PINK_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_PURPLE_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_WHITE_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_BLACK_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_GOLD_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_SILVER_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_FENCE_MILK_1
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+What an interesting pattern on this
+fence... It looks like a bunch  of
+cows...
+MES_ITEMCOMMENT_PLAN_FENCE_HAIR_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_GUARD_POLE_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_CHAIN_POLE_1
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+The wooden wall goes on and on... I
+feel like my mother is going to pop up
+on the other side...
+MES_ITEMCOMMENT_PLAN_WALL_WOOD_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_WALL_STONE_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_WALL_BRICK_1
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_VINYLHOUSE
+
+Msg
+NoMsg
+MES_ITEMCOMMENT_PLAN_RICE_FIELD_PANEL
+
+Msg
+NoMsg
+MES_HOSPITAL_00
+
+Msg
+NoMsg
+MES_HOSPITAL_01
+
+Msg
+NoMsg
+MES_HOSPITAL_02
+
+Msg
+NoMsg
+MES_HOSPITAL_03
+
+Msg
+NoMsg
+MES_HP_RECOVER_00
+
+Msg
+NoMsg
+MES_HP_RECOVER_01
+
+Msg
+NoMsg
+MES_HP_RECOVER_02
+
+Msg
+NoMsg
+MES_SP_RECOVER_00
+
+Msg
+NoMsg
+MES_SP_RECOVER_01
+
+Msg
+NoMsg
+MES_SP_RECOVER_02
+
+Msg
+NoMsg
+MES_GO_OUT
+
+Msg
+NoMsg
+MES_HOSPITAL_NO_MONEY
+
+Msg
+NoMsg
+MES_HOSPITAL_END
+
+Msg
+NoMsg
+MES_HIDE_HINT_00
+
+Msg
+NoMsg
+MES_HIDE_HINT_01
+
+Msg
+NoMsg
+MES_HIDE_HINT_02
+
+Msg
+NoMsg
+MES_HIDE_HINT_03
+
+Msg
+NoMsg
+MES_HIDE_HINT_04
+
+Msg
+NoMsg
+MES_HIDE_HINT_05
+
+Msg
+NoMsg
+MES_HIDE_HINT_06
+
+Msg
+NoMsg
+MES_HIDE_HINT_07
+
+Msg
+NoMsg
+MES_HIDE_HINT_08
+
+Msg
+NoMsg
+MES_HIDE_HINT_09
+
+Msg
+NoMsg
+MES_HIDE_HINT_10
+
+Msg
+NoMsg
+MES_HIDE_HINT_11
+
+Msg
+NoMsg
+MES_HIDE_HINT_12
+
+Msg
+NoMsg
+MES_WANT_TO_CANDY_00
+
+Msg
+NoMsg
+MES_WANT_TO_CANDY_01
+
+Msg
+NoMsg
+MES_WANT_TO_CANDY_02
+
+Msg
+NoMsg
+MES_DRAWING_FARMING_TOOL_COPPER
+
+Msg
+NoMsg
+MES_DRAWING_FARMING_TOOL_SILVER
+
+Msg
+NoMsg
+MES_DRAWING_TOOL_STEEL
+
+Msg
+NoMsg
+MES_DRAWING_FARMING_TOOL_GOLD
+
+Msg
+NoMsg
+MES_DRAWING_TOOL_WORKMAN
+
+Msg
+NoMsg
+MES_DRAWING_FARMING_TOOL_WORKMAN
+
+Msg
+NoMsg
+MES_DRAWING_SUPER_BELL
+
+Msg
+NoMsg
+MES_DRAWING_WALLPAPER_ANIMAL
+
+Msg
+NoMsg
+MES_DRAWING_YASHIKI
+
+Msg
+NoMsg
+MES_DRAWING_SUMMER_POT
+
+Msg
+NoMsg
+MES_DRAWING_SUMMER_PLANTER
+
+Msg
+NoMsg
+MES_DRAWING_ALARM
+
+Msg
+NoMsg
+MES_DRAWING_MOVIE
+
+Msg
+NoMsg
+MES_DRAWING_GREAT_ROD
+
+Msg
+NoMsg
+MES_DRAWING_WALLPAPER_SYUMITTO
+
+Msg
+NoMsg
+MES_DRAWING_POT_PINKROSE
+
+Msg
+NoMsg
+MES_DRAWING_PLANTER_PINKROSE
+
+Msg
+NoMsg
+MES_DRAWING_WALLPAPER_CROPS
+
+Msg
+NoMsg
+MES_DRAWING_MUSIC_PLAYER
+
+Msg
+NoMsg
+MES_DRAWING_WINTER_POT
+
+Msg
+NoMsg
+MES_DRAWING_WINTER_PLANTER
+
+Msg
+NoMsg
+MES_DRAWING_WAGON
+
+Msg
+NoMsg
+MES_DRAWING_FLOOR_ORIENTAL
+
+Msg
+NoMsg
+MES_RECIPE_BOOK_KAMON_00
+
+Msg
+NoMsg
+MES_RECIPE_BOOK_KAMON_01
+
+Msg
+NoMsg
+MES_RECIPE_BOOK_KAMON_02
+
+Msg
+NoMsg
+MES_RECIPE_BOOK_KAMON_03
+
+Msg
+NoMsg
+MES_RECIPE_BOOK_KAMON_04
+
+Msg
+NoMsg
+MES_DRAWING_BOOK_BEACH
+
+Msg
+NoMsg
+MES_DRAWING_BOOK_CACTUS
+
+Msg
+NoMsg
+MES_DRAWING_BONFIRE
+
+Msg
+NoMsg
+MES_DRAWING_TOTEM POLE_2
+
+Msg
+NoMsg
+MES_DRAWING_PIECE_HAIAO_1
+
+Msg
+NoMsg
+MES_DRAWING_PIECE_IRONASHI_1
+
+Msg
+NoMsg
+MES_DRAWING_BOOK_FENCE_BANBOO
+
+Msg
+NoMsg
+MES_DRAWING_BOOK_JAPAN
+
+Msg
+NoMsg
+MES_DRAWING_BRIDGE_ARCH
+
+Msg
+NoMsg
+MES_GIFT_WASABI
+
+Msg
+NoMsg
+MES_GIFT_STRAWBERRY
+
+Msg
+I think I'll wait to give my present...
+MES_PRESENT_CANNOT
+
+Msg
+NoMsg
+MES_PRESENT_CANNOT
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I don't care to go to hair salons...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_LOSS>I'm ticklish and a shiver runs down
+my spine when my hair is touched...
+MES_SHOP_BEAUTY_PARLOR
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+To have my own shop... It's all thanks
+to you, <MYNAME>...
+MES_CLOTHES_SHOP
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>
+A restaurant... I don't get too excited
+over food...
+MES_RESTAURANT
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Traveling... There are so many places I
+want to go...
+MES_TRAVEL_AGENCY
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+The clothes that the tea shop owner
+wears really interests me...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>The materials they're made of, what
+country they're from... I'd love to
+know...
+MES_TEA_SHOP
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+Moving...not interested...
+MES_MOVE_OUT
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+If the town grows and people from many
+countries come...
+<PAGE>
+<FACE_YURI><POS_RIGHT><FACE_ROUGH>Heh...
+It'll be fun to see fashions
+from all over the world...
+MES_TOWN2_OPEN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I like fashionable town motifs too...
+MES_TOWN_WEST
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I like exotic motifs in a town too...
+MES_TOWN_JAPAN
+
+Msg
+<FACE_YURI><POS_RIGHT><FACE_NORMAL>
+I like the warmth that a wood motif
+gives a town...
+MES_TOWN_ORIENT
+
